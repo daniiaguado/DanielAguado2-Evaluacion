@@ -13,9 +13,3 @@ while true; do
         echo "La ciudad introducida no es valida porfavor introduce una de estas 3 ciudad Madrid , Valencia o Barcelona"
     fi
 done
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> parte1
